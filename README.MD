@@ -1,4 +1,4 @@
-# Run Procedure.m
+# Using Method: Just Run Procedure.m
 ###### All explanation nodes are written in Chinese.
 ###### It includes the following steps: (1)Calibrating parameters of the cemera; 
 ###### (2)Taking images; 
